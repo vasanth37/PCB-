@@ -1,0 +1,28 @@
+# KiCad backup files
+*-backups/
+
+# KiCad lock files
+*.lck
+
+# KiCad local settings
+*.kicad_prl
+
+# Temporary files
+*.tmp
+*.bak
+
+# Linux temp
+*~
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+
+# Build outputs
+build/
+dist/
+
+# History folders
+.history/
