@@ -1117,7 +1117,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53962ce5-42db-4f65-bff7-2c9f256faedb")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 127.635 56.515 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1195,7 +1195,7 @@
 		(instances
 			(project "Atmega328P"
 				(path "/a3059dbd-d55d-42c4-a0da-e973b539ab98/468e35be-b99a-4502-8874-1fb5356543ab"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1212,7 +1212,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ddd6ce47-04d8-434b-8a5e-c6f3c3d11206")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 100.33 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1305,7 +1305,7 @@
 		(instances
 			(project "Atmega328P"
 				(path "/a3059dbd-d55d-42c4-a0da-e973b539ab98/468e35be-b99a-4502-8874-1fb5356543ab"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
