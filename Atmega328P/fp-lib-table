@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ATmega32P_AU_Footprint") (type "KiCad") (uri "/home/teladmin/Downloads/KIcad_Footprint/ATmega32P_AU_Footprint.pretty") (options "") (descr ""))
+)
