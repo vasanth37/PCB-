@@ -552,7 +552,7 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "/*Vcc"
+        "pattern": "/*VCC"
       },
       {
         "netclass": "Power",
@@ -564,7 +564,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../ATmega328P_Gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
