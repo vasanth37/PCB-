@@ -26,3 +26,7 @@ dist/
 
 # History folders
 .history/
+
+.2layer_ATmega328P_Gerber/
+.4layer_ATmega328P_Gerber/
+
