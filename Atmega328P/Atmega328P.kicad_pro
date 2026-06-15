@@ -564,7 +564,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../ATmega328P_Gerber/",
+      "plot": "../4layer_ATmega328P_Gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
