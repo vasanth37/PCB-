@@ -552,7 +552,7 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": "/*Vcc"
+        "pattern": "/*VCC"
       },
       {
         "netclass": "Power",
@@ -564,7 +564,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../ATmega328P_Gerber/",
+      "plot": "../4layer_ATmega328P_Gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -790,7 +790,7 @@
         "uuid": "a3059dbd-d55d-42c4-a0da-e973b539ab98"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#FLG3",
     "variants": []
   },
   "sheets": [
